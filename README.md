@@ -23,9 +23,6 @@ Este projeto foi criado com o objetivo de iniciar meus estudos em Java, proporci
 5. Veja o saldo atualizado.
 6. Decida se deseja realizar outra operação.
 
-## Contribuições
-
-Contribuições são bem-vindas! Se você tiver sugestões de melhorias, novas funcionalidades ou correções, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Autor
 
